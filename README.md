@@ -24,8 +24,7 @@ Em nosso curso, não faremos de maneira diferente.
 
 Nós utilizaremos uma *IDE* chamada *Code::Blocks*.
 
-> [!NOTE]\:
->
+> [!IMPORTANT]\
 > O **Code::Blocks** foi substituído pelo **VSCode**.
 >
 > Baixar e instalar o **MinGW** para executar o código.
